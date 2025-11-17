@@ -1,0 +1,23 @@
+from enum import Enum
+
+class States(Enum):
+    INIT = "INIT"
+    WELCOME = "WELCOME"
+    MENU = "MENU"
+    CATEGORIES = "CATEGORIES"
+    ITEMS = "ITEMS"
+    ITEM = "ITEM"
+    ORDER = "ORDER"
+    AFTER = "AFTER"
+    AWAIT = "AWAIT"
+    ROUTE = "ROUTE"
+    BILL = "BILL"
+    END = "END"
+    TEST = "TEST"
+    
+    LISTEN_AWAIT = "LISTEN_AWAIT"
+    LISTEN_CATEGORIES = "LISTEN_CATEGORIES"
+    LISTEN_ITEM = "LISTEN_ITEM"
+    LISTEN_ITEMS = "LISTEN_ITEMS"
+    LISTEN_ORDER = "LISTEN_ORDER"
+    LISTEN_ROUTE = "LISTEN_ROUTE"

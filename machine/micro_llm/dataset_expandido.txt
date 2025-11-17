@@ -1,0 +1,468 @@
+pedido	perdón tenes algo con chocolate? por favor
+pedido	una pregunta mostrame el menú ya
+pedido	me mostrás el menú
+pedido	tenés algo con chocolate?
+pedido	disculpá que tienen hoy?
+pedido	me das una hamburguesa
+pedido	mostrame el opciones
+pedido	hola tenés algo con chocolate? porfa
+pedido	mostrame el comidas
+pedido	me gustaria pedir
+pedido	podés traerme un postre!
+pedido	me mostrás el platos?
+pedido	puedo pedir ahora?
+pedido	quiero pedir algo!
+pedido	che mostrame el menú ahora
+pedido	quiero un postre
+pedido	perdón tenés algo con chocolate? dale
+pedido	mostrame el platos
+pedido	che qué tienen hoy por favor
+pedido	perdón tenés algo con chocolate? ya
+pedido	perdón me das una bebida? porfa
+pedido	perdón tenés algo con chocolate? dale y me das una hamburguesa
+pedido	me mostrás el platos
+pedido	me mostrás el carta y necesito hacer un pedido
+pedido	hola mostrame el menú
+pedido	me das la carta
+pedido	disculpá que tienen hoy? porfa
+pedido	me gustaría pedir
+pedido	ey quiero un postre! ya
+pedido	quiero un postre! dale
+pedido	una pregunta me das una bebida dale
+pedido	qué tienen hoy
+pedido	che me das una bebida? ya
+pedido	disculpá me das una bebida por favor
+pedido	disculpá que tienen hoy y mostrame el menú
+pedido	que tienen hoy?
+pedido	hola me mostrás el menú y me mostrás el carta
+pedido	mostrame el menú
+pedido	me das una bebida
+pedido	me mostrás el carta
+pedido	una pregunta tenés algo con chocolate? porfa
+pedido	que recomiendan y puedo pedir ahora
+pedido	necesito hacer un pedido y che me das una bebida? ahora
+pedido	perdón que tienen hoy? porfa
+pedido	dame un postre!
+pedido	me mostrás el carta?
+pedido	quisiera un postre!
+pedido	qué tienen hoy?
+pedido	que recomiendan?
+pedido	ey quiero un postre! dale
+pedido	mostrame el menú!
+pedido	tenés algo con chocolate y puedo pedir ahora
+pedido	puedo pedir ahora y me mostrás el platos
+pedido	me mostrás el opciones?
+pedido	qué opciones tenés?
+pedido	que tienen hoy? dale
+pedido	me das una hamburguesa?
+pedido	me gustaría pedir!
+pedido	perdón me das una bebida
+pedido	me das un postre!
+pedido	necesito hacer un pedido
+pedido	me mostrás el comidas
+pedido	perdón me das una bebida y mostrame el opciones
+pedido	ey tenes algo con chocolate? porfa
+pedido	tenes algo con chocolate?
+pedido	quiero pedir y hola me mostrás el menú porfa
+pedido	tenés algo con chocolate
+pedido	disculpá me das una bebida porfa
+pedido	una pregunta quiero un postre! dale
+pedido	una pregunta voy a ordenar y qué tienen hoy dale
+pedido	que opciones tenes?
+pedido	me mostrás el menú?
+pedido	che mostrame el menú ya
+pedido	una pregunta me das una bebida por favor
+pedido	una pregunta quiero un postre!
+pedido	ey tenes algo con chocolate? dale y mostrame el menú
+pedido	mostrame el carta
+pedido	mostrame el menu
+pedido	ey tenes algo con chocolate? dale
+pedido	qué recomiendan
+pedido	disculpá qué tienen hoy
+pedido	quiero pedir algo y hola mostrame el menú ya
+pedido	ey voy a ordenar! ya
+pedido	me das una bebida? ya
+pedido	hola tenés algo con chocolate? ahora
+pedido	quiero pedir!
+pedido	hola mostrame el menú ya
+pedido	me mostrás el opciones
+pedido	perdón me das una bebida? porfa y necesito hacer un pedido
+pedido	necesito un postre!
+pedido	hola mostrame el menú y voy a ordenar
+pedido	me mostrás el comidas?
+pedido	disculpá qué tienen hoy dale
+pedido	che me das una bebida? ahora
+pedido	voy a ordenar!
+pedido	perdón me mostrás el menú por favor
+pedido	me das la carta y quiero un postre
+pedido	quiero un postre!
+pedido	que tienen hoy? por favor
+pedido	me das una bebida?
+pedido	che voy a ordenar! porfa
+pedido	ey voy a ordenar! por favor
+pedido	qué tienen hoy dale
+pedido	perdón me das una bebida? ya
+pedido	hola me mostrás el menú porfa
+pedido	perdón me mostrás el menú porfa
+pedido	che voy a ordenar! por favor
+pedido	che tenes algo con chocolate? dale
+pedido	me das la carta?
+pedido	ey me mostrás el menú porfa y disculpá me das una bebida porfa
+pedido	quiero pedir algo
+pedido	una pregunta mostrame el menú porfa
+pedido	ey me mostrás el menú porfa
+pedido	una pregunta voy a ordenar!
+pedido	ey me mostrás el menú por favor
+pedido	puedo pedir ahora
+pedido	che qué tienen hoy porfa
+pedido	perdón que tienen hoy? ya
+pedido	una pregunta tenés algo con chocolate? dale
+pedido	che tenes algo con chocolate? por favor
+pedido	hola tenés algo con chocolate? ahora y voy a ordenar
+pedido	ey voy a ordenar! x favor
+pedido	me mostras el menu?
+pedido	qué recomiendan?
+pedido	ey tenes algo con chocolate? porfa y quiero un postre! dale
+pedido	perdón me das una bebida xfa
+pedido	necesito hacer un pedido!
+pedido	voy a ordenar
+pedido	hola me mostrás el menú
+pedido	una pregunta voy a ordenar! ya
+pedido	che tenes algo con chocolate? dale y hola me mostrás el menú porfa
+pedido	perdón me das una bebida porfa
+pedido	quiero pedir
+pedido	perdón tenes algo con chocolate? ahora
+pedido	qué opciones tenés
+cuenta	queremos cancelar!
+cuenta	perdón necesito el recibo! ahora y quiero abonar
+cuenta	queremos abonar
+cuenta	disculpá pasame la cuenta! porfa
+cuenta	una pregunta pasame la cuenta! dale
+cuenta	pasame la cuenta!
+cuenta	una pregunta pasame la cuenta!
+cuenta	quiero cancelar
+cuenta	perdón la cuenta por favor ahora
+cuenta	una pregunta la factura
+cuenta	quiero cancelar!
+cuenta	una pregunta la cuenta por favor por favor y ey me cobras? porfa
+cuenta	che necesito el recibo porfa
+cuenta	che cobranos!
+cuenta	ey me cobrás porfa
+cuenta	la cuenta por favor y queremos cobrar
+cuenta	disculpá queremos pagar por favor
+cuenta	queremos pagar dale
+cuenta	la cuenta por favor
+cuenta	ey me cobras?
+cuenta	la ticket por favor
+cuenta	perdón necesito el recibo! ahora
+cuenta	una pregunta necesito el recibo! porfa
+cuenta	qremos abonar!
+cuenta	una pregunta queremos pagar dale
+cuenta	kremos abonar!
+cuenta	me cobrás?
+cuenta	una pregunta queremos pagar por favor
+cuenta	pasame la factura!
+cuenta	cobranos ahora
+cuenta	la comprobante por favor!
+cuenta	una pregunta necesito el recibo! ahora y necesito el recibo
+cuenta	quiero cobrar!
+cuenta	queremos cancelar
+cuenta	perdón necesito el recibo!
+cuenta	queremos cobrar
+cuenta	che la factura ya
+cuenta	pasame la comprobante!
+cuenta	pasame la cuenta! porfa
+cuenta	pasame la recibo!
+cuenta	la recibo por favor
+cuenta	hola me cobrás por favor y che necesito el recibo ahora
+cuenta	cobranos! ahora
+cuenta	una pregunta queremos pagar dale y perdón necesito el recibo porfa
+cuenta	una pregunta la factura por favor
+cuenta	la comprobante por favor
+cuenta	una pregunta la cuenta por favor porfa y una pregunta la factura por favor
+cuenta	necesito el recibo!
+cuenta	quiero pagar
+cuenta	cuanto te debo?
+cuenta	ey cobranos ya
+cuenta	hola cobranos!
+cuenta	la cuenta por favor ahora y me me cobrás
+cuenta	la factura por favor
+cuenta	disculpá pasame la cuenta! dale
+cuenta	la cuenta por favor ya
+cuenta	queremos pagar!
+cuenta	disculpá la factura porfa
+cuenta	quiero pagar!
+cuenta	queremos abonar!
+cuenta	una pregunta la cuenta por favor porfa
+cuenta	me me cobrás y ey me cobrás ya
+cuenta	quiero cancelar y quiero pagar
+cuenta	voy a ir pidiendo la cuenta
+cuenta	cuánto te debo?
+cuenta	pasame la cuenta! ya
+cuenta	disculpá queremos pagar
+cuenta	la factura
+cuenta	quiero cobrar
+cuenta	la factura por favor!
+cuenta	ey me cobrás ya
+cuenta	me cobras?
+cuenta	cobranos!
+cuenta	una pregunta necesito el recibo ya
+cuenta	necesito el recibo
+cuenta	hola necesito el recibo! ya
+cuenta	me cobrás
+cuenta	che la factura dale
+cuenta	disculpá me cobras? dale
+cuenta	hola necesito el recibo! por favor
+cuenta	perdón cobranos ahora
+cuenta	queremos abonar y che necesito el recibo porfa
+cuenta	che necesito el recibo ahora
+cuenta	che me cobrás dale
+cuenta	hola me cobrás por favor
+cuenta	quiero abonar!
+cuenta	me pasás la cuenta y quiero pagar
+cuenta	me me cobrás
+cuenta	hola cobranos! ya
+cuenta	cobranos ya
+cuenta	hola me cobrás dale
+cuenta	pasame la cuenta
+cuenta	disculpá la factura dale
+cuenta	disculpá me cobras? porfa
+cuenta	la factura!
+cuenta	perdón necesito el recibo por favor
+cuenta	che cobranos! dale
+cuenta	queremos pagar dale y ey cobranos dale
+cuenta	che me cobras? porfa
+cuenta	cuánto te debo
+cuenta	pasame la ticket!
+cuenta	queremos pagar
+cuenta	perdón cobranos ya
+cuenta	ey me cobrás ya y cobranos ya
+cuenta	la ticket por favor!
+cuenta	quiero abonar
+cuenta	una pregunta necesito el recibo! ahora
+cuenta	una pregunta la cuenta por favor por favor
+cuenta	perdón necesito el recibo porfa
+cuenta	che me cobras?
+cuenta	necesito el recibo y queremos cancelar
+cuenta	cobranos
+cuenta	queremos cancelar y perdón necesito el recibo por favor
+cuenta	me pasás la cuenta y la recibo por favor
+cuenta	una pregunta necesito el recibo dale
+cuenta	me pasás la cuenta
+cuenta	queremos cobrar!
+cuenta	la cuenta por favor!
+cuenta	perdón la cuenta por favor por favor
+cuenta	la cuenta por favor ahora
+cuenta	ey me cobras? porfa
+cuenta	che me cobrás
+cuenta	queremos pagar por favor
+cuenta	la recibo por favor!
+cuenta	la ticket por favor y me me cobrás
+cuenta	voy a ir pidiendo la cuenta!
+cuenta	queremos cobrar y kremos abonar
+cuenta	ey cobranos dale
+cuenta	kueremos abonar!
+cuenta	una pregunta la factura y ey cobranos dale
+esperar	disculpá todavía no
+esperar	por ahora no necesito nada!
+esperar	disculpá dame un momento
+esperar	che dame un momento por favor
+esperar	disculpá más tarde! dale
+esperar	disculpá en un rato
+esperar	disculpá estoy viendo ahora
+esperar	dame un momento
+esperar	ey estoy viendo! por favor
+esperar	perdón no hace falta! por favor
+esperar	por ahora no necesito nada
+esperar	no gracias!
+esperar	en un rato porfa
+esperar	todavia no
+esperar	dejame pensar!
+esperar	perdón estoy viendo por favor
+esperar	una pregunta por ahora no necesito nada! dale
+esperar	no hace falta
+esperar	todavía no!
+esperar	ahora no
+esperar	una pregunta por ahora no necesito nada! porfa
+esperar	perdón por ahora no necesito nada! por favor
+esperar	una pregunta más tarde! porfa
+esperar	estoy viendo!
+esperar	una pregunta te agradezco porfa
+esperar	una pregunta ahora no ya
+esperar	en un rato
+esperar	te agradezco
+esperar	dame un segundo
+esperar	perdón dame un momento dale
+esperar	disculpá estoy viendo
+esperar	che dame un momento
+esperar	perdón no hace falta! porfa
+esperar	ey todavía no por favor
+esperar	esperame un minuto
+esperar	hola todavía no
+esperar	más tarde
+esperar	disculpá ahora no ya
+esperar	disculpá te agradezco ya
+esperar	hola más tarde! por favor
+esperar	che no hace falta! dale
+esperar	perdón estoy viendo porfa
+esperar	disculpá todavía no ahora
+esperar	una pregunta ahora no porfa
+esperar	una pregunta más tarde! ahora
+esperar	dame un toque
+esperar	dame un momento!
+esperar	disculpá más tarde! porfa
+esperar	en un rato ahora
+esperar	disculpá en un rato ya
+esperar	ey todavía no dale
+esperar	ahora no ya
+esperar	todavía no
+esperar	una pregunta te agradezco dale
+esperar	una pregunta no hace falta! ya
+esperar	ey en un rato
+esperar	hola por ahora no necesito nada! ahora
+esperar	te agradezco por favor
+esperar	ahora no!
+esperar	te agradezco ya
+esperar	disculpá dame un momento por favor
+esperar	te agradezco!
+esperar	che estoy viendo! dale
+esperar	hola más tarde!
+esperar	che estoy viendo ya
+esperar	che no hace falta!
+esperar	no hace falta!
+esperar	perdón dame un momento porfa
+esperar	hola por ahora no necesito nada! ya
+esperar	che estoy viendo por favor
+esperar	una pregunta no hace falta! dale
+esperar	che estoy viendo! ya
+esperar	dame un rato
+esperar	perdón estoy viendo!
+esperar	hola todavía no por favor
+esperar	disculpá te agradezco por favor
+esperar	más tarde!
+esperar	estoy viendo
+esperar	en un rato!
+esperar	mas tarde
+esperar	no gracias
+esperar	perdón por ahora no necesito nada!
+esperar	dame un minuto
+esperar	disculpá ahora no ahora
+esperar	ey estoy viendo! porfa
+esperar	esperame un minuto!
+esperar	ey en un rato dale
+esperar	dejame pensar
+esperar	perdón estoy viendo! dale
+queja	me trajiste cualquier cosa!
+queja	no me gusta
+queja	una pregunta no me gusta por favor
+queja	che que garcha! dale
+queja	la comida esta fria
+queja	tardan mucho!
+queja	no me gusta ya
+queja	hola que garcha!
+queja	esta feo
+queja	es una mierda! ya
+queja	hola quiero hablar con el gerente dale
+queja	perdón está feo! dale
+queja	la comida está fría
+queja	no es lo que pedi
+queja	que garcha
+queja	es una mierda y que caca
+queja	ey q caca dale
+queja	hola me trajiste cualquier cosa
+queja	la comida está sin calentar!
+queja	ey es una mierda! dale
+queja	está desastre!
+queja	esto es un desastre
+queja	ey esto es un desastre xfa
+queja	ey es una mierda ya
+queja	ey me trajiste cualquier cosa! porfa
+queja	hola es una mierda! porfa
+queja	disculpá me trajiste cualquier cosa! ya
+queja	es una mierda! ahora
+queja	ey esto es un desastre porfa
+queja	me trajiste cualquier cosa porfa
+queja	la comida está fría y disculpá es una mierda porfa
+queja	quiero hablar con el gerente
+queja	me trajiste cualquier cosa y che quiero hablar con el gerente ya
+queja	che me trajiste cualquier cosa! porfa
+queja	hola me trajiste cualquier cosa ahora
+queja	perdón que caca porfa
+queja	que garcha!
+queja	disculpá es una mierda por favor
+queja	no es lo que pedí!
+queja	está horrible!
+queja	perdón quiero hablar con el gerente ahora
+queja	disculpá me trajiste cualquier cosa y ey kue caca dale
+queja	está horrible y hola que garcha
+queja	ey que garcha! dale
+queja	perdón esto es un desastre por favor
+queja	che esto es un desastre
+queja	tardan mucho
+queja	ey está feo! porfa
+queja	ey es una mierda porfa
+queja	che me trajiste cualquier cosa! dale
+queja	tardan mucho y está malo
+queja	no me gusta!
+queja	perdón me trajiste cualquier cosa dale
+queja	hola que caca dale
+queja	disculpá es una mierda porfa
+queja	está feo! por favor
+queja	es una mierda y ey kue caca dale
+queja	hola quiero hablar con el gerente por favor
+queja	ey k caca dale
+queja	es una mierda
+queja	hola es una mierda! ya
+queja	hola que caca por favor
+queja	che esto es un desastre ahora
+queja	la comida está congelada y ey está feo! porfa
+queja	ey que garcha! ahora
+queja	es una mierda!
+queja	perdón quiero hablar con el gerente por favor
+queja	está feo!
+queja	che quiero hablar con el gerente
+queja	perdón que caca
+queja	la comida está helada!
+queja	que caca
+queja	perdón me trajiste cualquier cosa ahora y está desastre
+queja	perdón está feo! porfa y ey que caca ahora
+queja	es una mierda y hola es una mierda
+queja	perdón que caca y tardan mucho
+queja	está feo
+queja	la comida está congelada!
+queja	está malo!
+queja	que caca!
+queja	perdón esto es un desastre dale
+queja	una pregunta no me gusta ahora
+queja	me trajiste cualquier cosa ahora
+queja	quiero hablar con el gerente!
+queja	disculpá no me gusta por favor
+queja	hola es una mierda
+queja	perdón está feo! porfa
+queja	ey que caca ahora
+queja	ey que caca dale
+queja	está horrible y hola quiero hablar con el gerente por favor
+queja	me trajiste cualquier cosa
+queja	está terrible!
+queja	ey es una mierda!
+queja	che que garcha! porfa
+queja	ey kue caca dale
+queja	la comida está fría!
+queja	no es lo que pedí
+queja	che quiero hablar con el gerente ya
+queja	hola es una mierda! porfa y me trajiste cualquier cosa
+queja	ey está feo!
+queja	ey esto es un desastre
+queja	disculpá no me gusta ya
+queja	ey que caca dale y hola que caca dale
+queja	esto es un desastre!
+queja	perdón me trajiste cualquier cosa ahora
+queja	hola que garcha! dale
+queja	está feo! por favor y ey está feo! porfa
+queja	disculpá es una mierda porfa y la comida está fría
+queja	disculpá me trajiste cualquier cosa!
+queja	la comida está congelada y perdón esto es un desastre dale
+queja	ey me trajiste cualquier cosa! por favor
+queja	está desastre y ey que caca dale
+queja	hola es una mierda ya
+queja	hola me trajiste cualquier cosa y está desastre
